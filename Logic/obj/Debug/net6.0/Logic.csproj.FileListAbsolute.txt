@@ -1,0 +1,5 @@
+D:\Lab 3-2\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+D:\Lab 3-2\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 3-2\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+D:\Lab 3-2\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+D:\Lab 3-2\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.csproj.AssemblyReference.cache
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.AssemblyInfoInputs.cache
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.AssemblyInfo.cs
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.csproj.CoreCompileInputs.cache
+D:\Lab 3-2\MainLogic\bin\Debug\net6.0\MainLogic.exe
+D:\Lab 3-2\MainLogic\bin\Debug\net6.0\MainLogic.deps.json
+D:\Lab 3-2\MainLogic\bin\Debug\net6.0\MainLogic.runtimeconfig.json
+D:\Lab 3-2\MainLogic\bin\Debug\net6.0\MainLogic.dll
+D:\Lab 3-2\MainLogic\bin\Debug\net6.0\MainLogic.pdb
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.dll
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\refint\MainLogic.dll
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.pdb
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\MainLogic.genruntimeconfig.cache
+D:\Lab 3-2\MainLogic\obj\Debug\net6.0\ref\MainLogic.dll
